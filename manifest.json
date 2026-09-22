@@ -1098,7 +1098,107 @@
       "parentId": "a5e567c3-cd9d-4124-8365-4fa1719878b1",
       "tags": [],
       "createdAt": 1789611564667,
-      "modifiedAt": 1789611564674
+      "modifiedAt": 1790118764074
+    },
+    "9308f783-74fd-4b37-9791-4a1587cd53df": {
+      "id": "9308f783-74fd-4b37-9791-4a1587cd53df",
+      "name": "The OMEGA Curve Sketching lesson",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "a5e567c3-cd9d-4124-8365-4fa1719878b1",
+      "tags": [],
+      "createdAt": 1789611564729,
+      "modifiedAt": 1790118764074
+    },
+    "6cdeb075-50e4-4774-a958-f2d1165f211c": {
+      "id": "6cdeb075-50e4-4774-a958-f2d1165f211c",
+      "name": "Post Winter Break Review",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "af85412f-6d2a-4933-b16e-af9d48137c5d",
+      "tags": [],
+      "createdAt": 1789611564793,
+      "modifiedAt": 1790118764074
+    },
+    "4b74510b-bf71-4f6d-898d-2788379b6e29": {
+      "id": "4b74510b-bf71-4f6d-898d-2788379b6e29",
+      "name": "The One Big Note On Everything",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "af85412f-6d2a-4933-b16e-af9d48137c5d",
+      "tags": [],
+      "createdAt": 1789611564858,
+      "modifiedAt": 1790118764074
+    },
+    "91433534-2183-4021-9cea-18962c59bb28": {
+      "id": "91433534-2183-4021-9cea-18962c59bb28",
+      "name": "3D Vectors",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "tags": [],
+      "createdAt": 1789611564919,
+      "modifiedAt": 1790118764074
+    },
+    "e24e5a1a-6322-4e16-8e7c-8f1c731b3836": {
+      "id": "e24e5a1a-6322-4e16-8e7c-8f1c731b3836",
+      "name": "Intro To Vectors 2",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "tags": [],
+      "createdAt": 1789611564982,
+      "modifiedAt": 1790118764074
+    },
+    "475d3676-aca5-4d5d-acfb-a1911cfd1f54": {
+      "id": "475d3676-aca5-4d5d-acfb-a1911cfd1f54",
+      "name": "Intro To Vectors",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "tags": [],
+      "createdAt": 1789611565044,
+      "modifiedAt": 1790118764074
+    },
+    "432b0552-a908-4dd5-b028-acef1abbc642": {
+      "id": "432b0552-a908-4dd5-b028-acef1abbc642",
+      "name": "Linear Combinations and Spanning Sets",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "tags": [],
+      "createdAt": 1789611565106,
+      "modifiedAt": 1790118764074
+    },
+    "e38db8a8-fd85-40d8-9af8-85cb4a92713e": {
+      "id": "e38db8a8-fd85-40d8-9af8-85cb4a92713e",
+      "name": "Multiplication By A Scalar And Collinearity",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "tags": [],
+      "createdAt": 1789611565169,
+      "modifiedAt": 1790118764074
+    },
+    "dd735ea7-84cb-41a4-ab08-8b4d7b6d91ff": {
+      "id": "dd735ea7-84cb-41a4-ab08-8b4d7b6d91ff",
+      "name": "Practice-",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "tags": [],
+      "createdAt": 1789611565232,
+      "modifiedAt": 1790118764074
+    },
+    "79e08ac2-4f57-4b95-95c4-1c87688756c0": {
+      "id": "79e08ac2-4f57-4b95-95c4-1c87688756c0",
+      "name": "Review",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "tags": [],
+      "createdAt": 1789611565296,
+      "modifiedAt": 1789611565310
     }
   },
   "linksBySource": {},
