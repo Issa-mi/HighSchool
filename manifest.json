@@ -899,6 +899,106 @@
       "tags": [],
       "createdAt": 1789611563354,
       "modifiedAt": 1790118657838
+    },
+    "8b6602a3-c467-4a21-a4ca-86b0b3ca7a96": {
+      "id": "8b6602a3-c467-4a21-a4ca-86b0b3ca7a96",
+      "name": "Colorimetry and UV-Vis Spectroscopy",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "e9aa6e33-77d2-4cfe-b91b-9a854c1ee55e",
+      "tags": [],
+      "createdAt": 1789611563415,
+      "modifiedAt": 1790118665772
+    },
+    "d8cd4534-ff90-44a8-a707-bb9a7f65b3d9": {
+      "id": "d8cd4534-ff90-44a8-a707-bb9a7f65b3d9",
+      "name": "Lesson 2 - Mass Spec Practice",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "e9aa6e33-77d2-4cfe-b91b-9a854c1ee55e",
+      "tags": [],
+      "createdAt": 1789611563477,
+      "modifiedAt": 1790118665772
+    },
+    "9cf2f004-b16c-422b-bfb0-493113067ce8": {
+      "id": "9cf2f004-b16c-422b-bfb0-493113067ce8",
+      "name": "Center Of Mass Practice Problems",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "4fa8c184-a3e7-48f4-b056-0df7e262188c",
+      "tags": [],
+      "createdAt": 1789611563536,
+      "modifiedAt": 1790118665772
+    },
+    "94cf5067-980e-4a6c-8e2c-7110222d95db": {
+      "id": "94cf5067-980e-4a6c-8e2c-7110222d95db",
+      "name": "How To Prove Gravity Being Negative",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "4fa8c184-a3e7-48f4-b056-0df7e262188c",
+      "tags": [],
+      "createdAt": 1789611563596,
+      "modifiedAt": 1790118665772
+    },
+    "534dd270-1bc2-4b26-a560-c0aec53efc27": {
+      "id": "534dd270-1bc2-4b26-a560-c0aec53efc27",
+      "name": "Quiz 1- Fluids",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "4fa8c184-a3e7-48f4-b056-0df7e262188c",
+      "tags": [],
+      "createdAt": 1789611563656,
+      "modifiedAt": 1790118665772
+    },
+    "280f0346-3816-4ca3-b3e0-653aa08618d4": {
+      "id": "280f0346-3816-4ca3-b3e0-653aa08618d4",
+      "name": "Quiz 2- Torque",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "4fa8c184-a3e7-48f4-b056-0df7e262188c",
+      "tags": [],
+      "createdAt": 1789611563728,
+      "modifiedAt": 1790118665772
+    },
+    "230c1e97-9966-40de-afdc-300b8ec3e8ea": {
+      "id": "230c1e97-9966-40de-afdc-300b8ec3e8ea",
+      "name": "Rotation And Torque Questions",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "4fa8c184-a3e7-48f4-b056-0df7e262188c",
+      "tags": [],
+      "createdAt": 1789611563794,
+      "modifiedAt": 1790118665772
+    },
+    "e62d44e6-82a2-411b-adeb-e68626075dbe": {
+      "id": "e62d44e6-82a2-411b-adeb-e68626075dbe",
+      "name": "Torque",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "4fa8c184-a3e7-48f4-b056-0df7e262188c",
+      "tags": [],
+      "createdAt": 1789611563861,
+      "modifiedAt": 1790118665772
+    },
+    "ab2c1de3-2636-494a-a4d2-e770ef0892e8": {
+      "id": "ab2c1de3-2636-494a-a4d2-e770ef0892e8",
+      "name": "Random Stuff",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "3c74b7e9-41da-4c52-956b-63806de709f7",
+      "tags": [],
+      "createdAt": 1789611563921,
+      "modifiedAt": 1790118665772
+    },
+    "3a2ad3d9-75df-46b6-8545-04653963f5ee": {
+      "id": "3a2ad3d9-75df-46b6-8545-04653963f5ee",
+      "name": "3.2 Extreme Values",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
+      "tags": [],
+      "createdAt": 1789611563985,
+      "modifiedAt": 1789611564004
     }
   },
   "linksBySource": {},
