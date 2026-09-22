@@ -1,6 +1,306 @@
 {
   "version": 3,
-  "nodes": {},
+  "nodes": {
+    "93e37770-db2b-499b-bfc4-24632c9eb7bf": {
+      "id": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "name": "AP Calculus",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789611558946,
+      "modifiedAt": 1789611558946
+    },
+    "e9aa6e33-77d2-4cfe-b91b-9a854c1ee55e": {
+      "id": "e9aa6e33-77d2-4cfe-b91b-9a854c1ee55e",
+      "name": "AP Chemistry",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789611558957,
+      "modifiedAt": 1789611558957
+    },
+    "4fa8c184-a3e7-48f4-b056-0df7e262188c": {
+      "id": "4fa8c184-a3e7-48f4-b056-0df7e262188c",
+      "name": "AP Physics",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789611558965,
+      "modifiedAt": 1789611558965
+    },
+    "27ef8649-921e-4046-a9ce-346be35572a7": {
+      "id": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "name": "Calculus - Vectors",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789611558970,
+      "modifiedAt": 1789611558970
+    },
+    "5b7549a1-88df-4bce-a71b-c38aaa2e5c87": {
+      "id": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "name": "Chemistry",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789611558975,
+      "modifiedAt": 1789611558975
+    },
+    "0f49dd48-08fa-4079-925b-56fed62aec6c": {
+      "id": "0f49dd48-08fa-4079-925b-56fed62aec6c",
+      "name": "Physics",
+      "type": "folder",
+      "parentId": null,
+      "tags": [],
+      "createdAt": 1789611558981,
+      "modifiedAt": 1789611558981
+    },
+    "3c74b7e9-41da-4c52-956b-63806de709f7": {
+      "id": "3c74b7e9-41da-4c52-956b-63806de709f7",
+      "name": "Midterm Review",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611558986,
+      "modifiedAt": 1789611558986
+    },
+    "f2b222bb-678c-41c9-9be6-236bde3c19f2": {
+      "id": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
+      "name": "Unit 3- Optimization",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611558991,
+      "modifiedAt": 1789611558991
+    },
+    "a5e567c3-cd9d-4124-8365-4fa1719878b1": {
+      "id": "a5e567c3-cd9d-4124-8365-4fa1719878b1",
+      "name": "Unit 4- Curve Sketching",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611558995,
+      "modifiedAt": 1789611558995
+    },
+    "af85412f-6d2a-4933-b16e-af9d48137c5d": {
+      "id": "af85412f-6d2a-4933-b16e-af9d48137c5d",
+      "name": "Unit 5- Derivatives Of Trig And Exponential Functions",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611558997,
+      "modifiedAt": 1789611558997
+    },
+    "71ce73f3-d450-407c-90cc-1ea3b8df10cd": {
+      "id": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
+      "name": "Unit 6- Intro To Vectors",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611559000,
+      "modifiedAt": 1789611559000
+    },
+    "f4d74588-080a-4b13-a687-e496e06a6579": {
+      "id": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "name": "Unit 7- Applications Of Vectors",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611559003,
+      "modifiedAt": 1789611559003
+    },
+    "978321ed-5002-4d53-a8cc-4f4fcf9efd3f": {
+      "id": "978321ed-5002-4d53-a8cc-4f4fcf9efd3f",
+      "name": "Unit 8- Equations Of Lines And Planes In 3D",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611559007,
+      "modifiedAt": 1789611559007
+    },
+    "19c4f82f-e821-4c3a-869c-1facef7985b0": {
+      "id": "19c4f82f-e821-4c3a-869c-1facef7985b0",
+      "name": "Unit 9- Intersections And Shortest Distances",
+      "type": "folder",
+      "parentId": "27ef8649-921e-4046-a9ce-346be35572a7",
+      "tags": [],
+      "createdAt": 1789611559009,
+      "modifiedAt": 1789611559009
+    },
+    "a426e59f-6656-4361-87ec-ba1175b8d8d0": {
+      "id": "a426e59f-6656-4361-87ec-ba1175b8d8d0",
+      "name": "Midterm Review",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559012,
+      "modifiedAt": 1789611559012
+    },
+    "e6c04a16-ea2a-4597-b360-88f5353268ee": {
+      "id": "e6c04a16-ea2a-4597-b360-88f5353268ee",
+      "name": "Unit 1- Organic Chemistry",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559015,
+      "modifiedAt": 1789611559015
+    },
+    "91e6ce71-594a-4354-854f-cf0a31df9541": {
+      "id": "91e6ce71-594a-4354-854f-cf0a31df9541",
+      "name": "Unit 2- Thermochemistry",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559018,
+      "modifiedAt": 1789611559018
+    },
+    "40c31a62-668a-4603-b942-555f4f9cb28d": {
+      "id": "40c31a62-668a-4603-b942-555f4f9cb28d",
+      "name": "Unit 3- Chemical Kinetics",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559020,
+      "modifiedAt": 1789611559020
+    },
+    "dc5b592f-6e49-487d-9359-823bb170605f": {
+      "id": "dc5b592f-6e49-487d-9359-823bb170605f",
+      "name": "Unit 4- Chemical Equilibrium",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559024,
+      "modifiedAt": 1789611559024
+    },
+    "6f61b900-76ef-49d6-9f77-1e4f73d66833": {
+      "id": "6f61b900-76ef-49d6-9f77-1e4f73d66833",
+      "name": "Unit 5- Acid-Base Equilibrium",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559026,
+      "modifiedAt": 1789611559026
+    },
+    "5368e6b4-93eb-4f07-99e0-5956fdf650e7": {
+      "id": "5368e6b4-93eb-4f07-99e0-5956fdf650e7",
+      "name": "Unit 6- Electro Chemistry",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559029,
+      "modifiedAt": 1789611559029
+    },
+    "e5df3a98-8265-4217-a83d-326c9165eb41": {
+      "id": "e5df3a98-8265-4217-a83d-326c9165eb41",
+      "name": "Unit 7- Chemical Bonding",
+      "type": "folder",
+      "parentId": "5b7549a1-88df-4bce-a71b-c38aaa2e5c87",
+      "tags": [],
+      "createdAt": 1789611559031,
+      "modifiedAt": 1789611559031
+    },
+    "f34098ca-1631-4d2a-8f98-1420ef31e487": {
+      "id": "f34098ca-1631-4d2a-8f98-1420ef31e487",
+      "name": "Midterm Review",
+      "type": "folder",
+      "parentId": "0f49dd48-08fa-4079-925b-56fed62aec6c",
+      "tags": [],
+      "createdAt": 1789611559033,
+      "modifiedAt": 1789611559033
+    },
+    "1cf2884e-0239-42e9-bf15-d5cd8b9ed53c": {
+      "id": "1cf2884e-0239-42e9-bf15-d5cd8b9ed53c",
+      "name": "Unit 1- Dynamics",
+      "type": "folder",
+      "parentId": "0f49dd48-08fa-4079-925b-56fed62aec6c",
+      "tags": [],
+      "createdAt": 1789611559036,
+      "modifiedAt": 1789611559036
+    },
+    "f4730307-5e75-4333-abea-f63dc893bbbc": {
+      "id": "f4730307-5e75-4333-abea-f63dc893bbbc",
+      "name": "Unit 2- Energy And Momentum",
+      "type": "folder",
+      "parentId": "0f49dd48-08fa-4079-925b-56fed62aec6c",
+      "tags": [],
+      "createdAt": 1789611559038,
+      "modifiedAt": 1789611559038
+    },
+    "60b31186-1082-44c0-99c7-3d5240fe2ddb": {
+      "id": "60b31186-1082-44c0-99c7-3d5240fe2ddb",
+      "name": "Unit 3- Field Theory",
+      "type": "folder",
+      "parentId": "0f49dd48-08fa-4079-925b-56fed62aec6c",
+      "tags": [],
+      "createdAt": 1789611559040,
+      "modifiedAt": 1789611559040
+    },
+    "4614a33c-57fa-4baa-b180-b1d1d49e2850": {
+      "id": "4614a33c-57fa-4baa-b180-b1d1d49e2850",
+      "name": "Unit 4- Light",
+      "type": "folder",
+      "parentId": "0f49dd48-08fa-4079-925b-56fed62aec6c",
+      "tags": [],
+      "createdAt": 1789611559043,
+      "modifiedAt": 1789611559043
+    },
+    "d5878f8e-7dfd-4798-aa25-bd18fed948a3": {
+      "id": "d5878f8e-7dfd-4798-aa25-bd18fed948a3",
+      "name": "Unit 5- Quantum Physics And Special Relativity",
+      "type": "folder",
+      "parentId": "0f49dd48-08fa-4079-925b-56fed62aec6c",
+      "tags": [],
+      "createdAt": 1789611559045,
+      "modifiedAt": 1789611559045
+    },
+    "55c3c765-6994-4e16-91a5-a299ff29a21f": {
+      "id": "55c3c765-6994-4e16-91a5-a299ff29a21f",
+      "name": "Electric Field Theory",
+      "type": "folder",
+      "parentId": "60b31186-1082-44c0-99c7-3d5240fe2ddb",
+      "tags": [],
+      "createdAt": 1789611559047,
+      "modifiedAt": 1789611559047
+    },
+    "c7c12611-60d2-476c-86d8-c17b57a7286b": {
+      "id": "c7c12611-60d2-476c-86d8-c17b57a7286b",
+      "name": "Gravitational Fields",
+      "type": "folder",
+      "parentId": "60b31186-1082-44c0-99c7-3d5240fe2ddb",
+      "tags": [],
+      "createdAt": 1789611559049,
+      "modifiedAt": 1789611559049
+    },
+    "e8540ad9-22d1-4939-9e83-ddbc2060ae93": {
+      "id": "e8540ad9-22d1-4939-9e83-ddbc2060ae93",
+      "name": "Magnetic Fields",
+      "type": "folder",
+      "parentId": "60b31186-1082-44c0-99c7-3d5240fe2ddb",
+      "tags": [],
+      "createdAt": 1789611559051,
+      "modifiedAt": 1789611559051
+    },
+    "e484c609-c0b2-40bc-a396-83ecde6c7caa": {
+      "id": "e484c609-c0b2-40bc-a396-83ecde6c7caa",
+      "name": "Day 13 Oct 14 Homework",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611559142,
+      "modifiedAt": 1790118456168
+    },
+    "34ee6394-01b7-4362-b3e9-e09bff4e7b07": {
+      "id": "34ee6394-01b7-4362-b3e9-e09bff4e7b07",
+      "name": "Day 13 Oct 14",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611559221,
+      "modifiedAt": 1789611559233
+    }
+  },
   "linksBySource": {},
   "colors": {
     "pen": [],
