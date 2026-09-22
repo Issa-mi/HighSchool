@@ -1229,6 +1229,36 @@
       "tags": [],
       "createdAt": 1789611565520,
       "modifiedAt": 1790118799313
+    },
+    "42e5b14a-df51-4495-9851-5b7195d3c40a": {
+      "id": "42e5b14a-df51-4495-9851-5b7195d3c40a",
+      "name": "Dot Product",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565596,
+      "modifiedAt": 1790118810994
+    },
+    "3da1f11e-53a8-4268-931d-401e19cd9fa9": {
+      "id": "3da1f11e-53a8-4268-931d-401e19cd9fa9",
+      "name": "Forces",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565659,
+      "modifiedAt": 1790118810994
+    },
+    "592d9577-c6c4-4da7-8c75-8ca5c185bb92": {
+      "id": "592d9577-c6c4-4da7-8c75-8ca5c185bb92",
+      "name": "Practice",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565728,
+      "modifiedAt": 1789611565752
     }
   },
   "linksBySource": {},
