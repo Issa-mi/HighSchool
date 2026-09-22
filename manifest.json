@@ -1008,7 +1008,27 @@
       "parentId": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
       "tags": [],
       "createdAt": 1789611564061,
-      "modifiedAt": 1789611564071
+      "modifiedAt": 1790118742130
+    },
+    "40cb752e-135c-4e26-b39a-ab65c2714ebe": {
+      "id": "40cb752e-135c-4e26-b39a-ab65c2714ebe",
+      "name": "3.4 Optimization With Science And Economics",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
+      "tags": [],
+      "createdAt": 1789611564128,
+      "modifiedAt": 1790118742130
+    },
+    "b3edd4a7-dc5d-408a-bd02-00bb5c39dc0d": {
+      "id": "b3edd4a7-dc5d-408a-bd02-00bb5c39dc0d",
+      "name": "Even More Optimization Review",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
+      "tags": [],
+      "createdAt": 1789611564204,
+      "modifiedAt": 1789611564217
     }
   },
   "linksBySource": {},
