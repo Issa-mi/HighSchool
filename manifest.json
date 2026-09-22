@@ -388,7 +388,47 @@
       "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
       "tags": [],
       "createdAt": 1789611559848,
-      "modifiedAt": 1789611559879
+      "modifiedAt": 1790118488967
+    },
+    "6754bec7-4005-459d-9db2-cbff22945320": {
+      "id": "6754bec7-4005-459d-9db2-cbff22945320",
+      "name": "Day 21 Oct 31 Homework",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611559942,
+      "modifiedAt": 1790118488967
+    },
+    "4ce010d2-3c71-4ec0-b330-c4700d72a7cf": {
+      "id": "4ce010d2-3c71-4ec0-b330-c4700d72a7cf",
+      "name": "Day 21 Oct 31",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560009,
+      "modifiedAt": 1790118488967
+    },
+    "f2a65e20-f67c-4f93-8120-8a62b2296660": {
+      "id": "f2a65e20-f67c-4f93-8120-8a62b2296660",
+      "name": "Day 22 Nov 3",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560076,
+      "modifiedAt": 1790118488967
+    },
+    "1fc2ce40-35bb-4fc0-8366-9f699611e0ea": {
+      "id": "1fc2ce40-35bb-4fc0-8366-9f699611e0ea",
+      "name": "Day 23 Nov 5 Homework",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560149,
+      "modifiedAt": 1789611560157
     }
   },
   "linksBySource": {},
