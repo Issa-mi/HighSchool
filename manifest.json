@@ -1308,7 +1308,17 @@
       "parentId": "978321ed-5002-4d53-a8cc-4f4fcf9efd3f",
       "tags": [],
       "createdAt": 1789611566057,
-      "modifiedAt": 1789611566074
+      "modifiedAt": 1790118833787
+    },
+    "cb232abb-cee6-4222-88de-3d432e19d9bd": {
+      "id": "cb232abb-cee6-4222-88de-3d432e19d9bd",
+      "name": "Cartesian Equations Of A Plane",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "978321ed-5002-4d53-a8cc-4f4fcf9efd3f",
+      "tags": [],
+      "createdAt": 1789611566148,
+      "modifiedAt": 1789611566198
     }
   },
   "linksBySource": {},
