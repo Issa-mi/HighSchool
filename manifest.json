@@ -878,7 +878,27 @@
       "parentId": "e9aa6e33-77d2-4cfe-b91b-9a854c1ee55e",
       "tags": [],
       "createdAt": 1789611563222,
-      "modifiedAt": 1789611563233
+      "modifiedAt": 1790118657838
+    },
+    "4e288ac0-6def-4d49-b688-1e129238f9e7": {
+      "id": "4e288ac0-6def-4d49-b688-1e129238f9e7",
+      "name": "AP Equilibrium Questions",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "e9aa6e33-77d2-4cfe-b91b-9a854c1ee55e",
+      "tags": [],
+      "createdAt": 1789611563290,
+      "modifiedAt": 1790118657838
+    },
+    "e2ec3abd-e601-4797-9a39-fb8f0a533e93": {
+      "id": "e2ec3abd-e601-4797-9a39-fb8f0a533e93",
+      "name": "Chromatography",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "e9aa6e33-77d2-4cfe-b91b-9a854c1ee55e",
+      "tags": [],
+      "createdAt": 1789611563354,
+      "modifiedAt": 1790118657838
     }
   },
   "linksBySource": {},
