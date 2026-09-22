@@ -1319,6 +1319,76 @@
       "tags": [],
       "createdAt": 1789611566148,
       "modifiedAt": 1790118857803
+    },
+    "500e56c7-1c1d-4898-9608-998966521a64": {
+      "id": "500e56c7-1c1d-4898-9608-998966521a64",
+      "name": "Vector And Parametric Equation Of A Plane",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "978321ed-5002-4d53-a8cc-4f4fcf9efd3f",
+      "tags": [],
+      "createdAt": 1789611566254,
+      "modifiedAt": 1790118892472
+    },
+    "5ab83587-5cd2-4d75-bfb4-ad28bf3ae707": {
+      "id": "5ab83587-5cd2-4d75-bfb4-ad28bf3ae707",
+      "name": "Vector Equations Of Lines",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "978321ed-5002-4d53-a8cc-4f4fcf9efd3f",
+      "tags": [],
+      "createdAt": 1789611566316,
+      "modifiedAt": 1790118892472
+    },
+    "36a91d6c-0599-4db3-b8ac-c59878f4c269": {
+      "id": "36a91d6c-0599-4db3-b8ac-c59878f4c269",
+      "name": "Intersection Between A Line And A …",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "19c4f82f-e821-4c3a-869c-1facef7985b0",
+      "tags": [],
+      "createdAt": 1789611566379,
+      "modifiedAt": 1790118892472
+    },
+    "3cd4a019-ffdb-40dd-8ce6-d20e71b94665": {
+      "id": "3cd4a019-ffdb-40dd-8ce6-d20e71b94665",
+      "name": "Intersection Of 2 Planes",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "19c4f82f-e821-4c3a-869c-1facef7985b0",
+      "tags": [],
+      "createdAt": 1789611566440,
+      "modifiedAt": 1790118892472
+    },
+    "5ad4d661-5530-47a0-a4af-0b7d2c1114b8": {
+      "id": "5ad4d661-5530-47a0-a4af-0b7d2c1114b8",
+      "name": "Intro To Matrices",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "19c4f82f-e821-4c3a-869c-1facef7985b0",
+      "tags": [],
+      "createdAt": 1789611566503,
+      "modifiedAt": 1790118892472
+    },
+    "048565cc-af22-4497-bb24-cf2051f8eb2c": {
+      "id": "048565cc-af22-4497-bb24-cf2051f8eb2c",
+      "name": "Organic Chemistry",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "a426e59f-6656-4361-87ec-ba1175b8d8d0",
+      "tags": [],
+      "createdAt": 1789611566566,
+      "modifiedAt": 1790118892472
+    },
+    "f43e49c6-929d-4feb-86a8-321cab00a451": {
+      "id": "f43e49c6-929d-4feb-86a8-321cab00a451",
+      "name": "Organic Chemistry Full Review",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "e6c04a16-ea2a-4597-b360-88f5353268ee",
+      "tags": [],
+      "createdAt": 1789611566671,
+      "modifiedAt": 1789611566786
     }
   },
   "linksBySource": {},
