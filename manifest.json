@@ -1259,6 +1259,56 @@
       "tags": [],
       "createdAt": 1789611565728,
       "modifiedAt": 1790118816982
+    },
+    "9571f942-0394-4046-ac35-14c4cd853efa": {
+      "id": "9571f942-0394-4046-ac35-14c4cd853efa",
+      "name": "Projections",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565808,
+      "modifiedAt": 1790118830541
+    },
+    "98f80382-5aa3-4632-9802-7bc61b26d0fc": {
+      "id": "98f80382-5aa3-4632-9802-7bc61b26d0fc",
+      "name": "Triple Scalar Product Worksheet",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565869,
+      "modifiedAt": 1790118830541
+    },
+    "a30ffc8d-e466-489d-adc8-b0259f5f0061": {
+      "id": "a30ffc8d-e466-489d-adc8-b0259f5f0061",
+      "name": "Velocity",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565930,
+      "modifiedAt": 1790118830541
+    },
+    "e14f997b-a2a9-40f8-baf0-430044dc7224": {
+      "id": "e14f997b-a2a9-40f8-baf0-430044dc7224",
+      "name": "8.6 Sketching Planes",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "978321ed-5002-4d53-a8cc-4f4fcf9efd3f",
+      "tags": [],
+      "createdAt": 1789611565993,
+      "modifiedAt": 1790118830541
+    },
+    "9f4e2572-8ca3-4cd6-ab48-83d8bf718c2c": {
+      "id": "9f4e2572-8ca3-4cd6-ab48-83d8bf718c2c",
+      "name": "Cartesian Equation Of A Line In 2D",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "978321ed-5002-4d53-a8cc-4f4fcf9efd3f",
+      "tags": [],
+      "createdAt": 1789611566057,
+      "modifiedAt": 1789611566074
     }
   },
   "linksBySource": {},
