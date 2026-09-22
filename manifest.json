@@ -428,7 +428,57 @@
       "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
       "tags": [],
       "createdAt": 1789611560149,
-      "modifiedAt": 1789611560157
+      "modifiedAt": 1790118498948
+    },
+    "ed0406b8-7bfd-40ac-842a-8d2a1c02b2a1": {
+      "id": "ed0406b8-7bfd-40ac-842a-8d2a1c02b2a1",
+      "name": "Day 23 Nov 5",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560215,
+      "modifiedAt": 1790118498948
+    },
+    "34f31418-21fd-47ab-9c15-f7ec6c9d1d6e": {
+      "id": "34f31418-21fd-47ab-9c15-f7ec6c9d1d6e",
+      "name": "Day 24 Nov 7 Homework",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560280,
+      "modifiedAt": 1790118498948
+    },
+    "94b9cc65-f00c-452c-ba5f-c1068f51a8d2": {
+      "id": "94b9cc65-f00c-452c-ba5f-c1068f51a8d2",
+      "name": "Day 24 Nov 7",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560347,
+      "modifiedAt": 1790118498948
+    },
+    "530e878c-4dfd-4daf-bfc2-3e2fe085e199": {
+      "id": "530e878c-4dfd-4daf-bfc2-3e2fe085e199",
+      "name": "Day 25 Nov 10",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560411,
+      "modifiedAt": 1790118498948
+    },
+    "970d4d0c-5c75-4d3a-963b-9496fcc3aae9": {
+      "id": "970d4d0c-5c75-4d3a-963b-9496fcc3aae9",
+      "name": "Day 26 Nov 17",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "93e37770-db2b-499b-bfc4-24632c9eb7bf",
+      "tags": [],
+      "createdAt": 1789611560476,
+      "modifiedAt": 1789611560483
     }
   },
   "linksBySource": {},
