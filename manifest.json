@@ -1028,7 +1028,27 @@
       "parentId": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
       "tags": [],
       "createdAt": 1789611564204,
-      "modifiedAt": 1789611564217
+      "modifiedAt": 1790118747446
+    },
+    "31069d02-51c6-401a-b6a8-bd32d8e188d6": {
+      "id": "31069d02-51c6-401a-b6a8-bd32d8e188d6",
+      "name": "Optimization Assignment",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
+      "tags": [],
+      "createdAt": 1789611564276,
+      "modifiedAt": 1790118747446
+    },
+    "6849553d-d4b2-43e9-b63c-9b3e88fa49a5": {
+      "id": "6849553d-d4b2-43e9-b63c-9b3e88fa49a5",
+      "name": "Optimization Review",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f2b222bb-678c-41c9-9be6-236bde3c19f2",
+      "tags": [],
+      "createdAt": 1789611564346,
+      "modifiedAt": 1789611564356
     }
   },
   "linksBySource": {},
