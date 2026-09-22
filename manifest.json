@@ -1198,7 +1198,27 @@
       "parentId": "71ce73f3-d450-407c-90cc-1ea3b8df10cd",
       "tags": [],
       "createdAt": 1789611565296,
-      "modifiedAt": 1789611565310
+      "modifiedAt": 1790118773377
+    },
+    "d1d6a732-f16f-42b7-832b-46507ec1d467": {
+      "id": "d1d6a732-f16f-42b7-832b-46507ec1d467",
+      "name": "Applications of Cross and Dot Product",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565366,
+      "modifiedAt": 1790118773377
+    },
+    "bbbb1832-d2d1-4c0f-b8f0-0b4dbea17dad": {
+      "id": "bbbb1832-d2d1-4c0f-b8f0-0b4dbea17dad",
+      "name": "Cross Product",
+      "type": "file",
+      "fileType": "mcanvas",
+      "parentId": "f4d74588-080a-4b13-a687-e496e06a6579",
+      "tags": [],
+      "createdAt": 1789611565441,
+      "modifiedAt": 1789611565459
     }
   },
   "linksBySource": {},
